@@ -1,0 +1,27 @@
+.locked td, td.impossible { background: #CCC; }
+
+ul {
+  padding: 10px 0 0 0;
+  list-style: none;
+}
+
+#names .label-volunteer {
+  font-size: 100%;
+  line-height: 2;
+}
+
+.label-volunteer { cursor: pointer; }
+
+.volunteer-1  { background-color: #B90000; }
+.volunteer-2  { background-color: #83B9C1; }
+.volunteer-3  { background-color: #2BA767; }
+.volunteer-4  { background-color: #9C2979; }
+.volunteer-5  { background-color: #D8E600; }
+.volunteer-6  { background-color: #181C84; }
+.volunteer-7  { background-color: #B9731D; }
+.volunteer-8  { background-color: #6FB345; }
+.volunteer-9  { background-color: #B91DB4; }
+.volunteer-10 { background-color: #777777; }
+
+#planning tr:first-child td { width: 10%; }
+#planning tr td             { width: 15%; }
